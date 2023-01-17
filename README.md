@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, I am Paulo. I am eager to share my projects and get to know yours. If you need help with anything, don't hesitate to ask. Let's work together to build amazing things.👋
 
 <!--
 **PHCJ/PHCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
